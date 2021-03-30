@@ -1,0 +1,16 @@
+PODS:
+  - AdBrixRemastered (1.6.5400)
+
+DEPENDENCIES:
+  - AdBrixRemastered
+
+SPEC REPOS:
+  trunk:
+    - AdBrixRemastered
+
+SPEC CHECKSUMS:
+  AdBrixRemastered: 1f7ada9f016624ab2c72618ee736894c1665d051
+
+PODFILE CHECKSUM: 9f4f6feb31d04929447f9ab130f545f7bc8f08c4
+
+COCOAPODS: 1.10.1
